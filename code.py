@@ -1,7 +1,4 @@
-# =========================================
-# Supermarket Sales Analysis Project
-# FINAL FIXED VERSION (NO ERRORS)
-# =========================================
+
 
 import pandas as pd
 import matplotlib.pyplot as plt
